@@ -1,5 +1,5 @@
 #1. Desenvolupament de programari
-  1. Concepte de programa informàtic.[](programa_informatic.md)
+  1. [Concepte de programa informàtic.](programa_informatic.md)
   2. Codi font, codi objecte i codi executable; màquines virtuals.
   3. Tipus de llenguatges de programació.
   4. Característiques dels llenguatges més difosos.
