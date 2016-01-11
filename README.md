@@ -3,5 +3,5 @@
 
 
 
-# Especialidad-M09
-Repositori per a M09
+# Especialidad
+Repositori per a Especialitat
