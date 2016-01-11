@@ -1,4 +1,4 @@
-* Apartat 1
+1. Apartat 1
   1. Concepte de programa informàtic1.2. Codi font, codi objecte i codi executable; màquines virtuals.
   2. Codi font, codi objecte i codi executable; màquines virtuals.
   3. Tipus de llenguatges de programació.
