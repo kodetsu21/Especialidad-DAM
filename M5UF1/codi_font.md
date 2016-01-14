@@ -11,4 +11,15 @@
   - L’ **enllaçador** és l’encarregat d’inserir al codi objecte les funcions de les **llibreries**
     que són necessàries per al programa i de dur a terme el procés de muntatge generant un arxiu executable.
   - Una **llibreria** és un col·lecció de codi predefinit que facilita la tasca del programador
-    a l’hora de codificar un programa. _Hola_
+    a l’hora de codificar un programa.
+  - El concepte de màquina virtual sorgeix amb l’objectiu de facilitar el desenvolupament
+    de compiladors que generen codi per a diferents processadors.
+    La compilació consta de dues fases:
+     - La primera parteix del codi font a un llenguatge intermedi obtenint un
+       programa equivalent amb un menor nivell d’abstracció que l’original i que
+       no pot ser directament executat.
+     - La segona fase tradueix el llenguatge intermedi a un llenguatge comprensible
+       per la màquina.
+  - El gran avantatge de la JVM és que possibilita la portabilitat de l’aplicació a
+    diferents plataformes i, així, un programa Java escrit en un sistema operatiu
+    Windows es pot executar en altres sistemes operatius
