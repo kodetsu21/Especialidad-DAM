@@ -1,3 +1,4 @@
+2. ##Codi font
 - Per crear un programa el que es farà serà crear un arxiu i escriure a un fitxer el
   seguit d’instruccions que es vol que l’ordinador executi.
 - Aquest arxiu és anomenat **codi font**
@@ -7,3 +8,7 @@
 - El **codi executable** és la traducció completa a **codi màquina**, duta a terme per
   l’enllaçador (en anglès, _linker_). El codi executable és interpretat directament
   per l’ordinador.
+- L’ **enllaçador** és l’encarregat d’inserir al codi objecte les funcions de les **llibreries**
+  que són necessàries per al programa i de dur a terme el procés de muntatge generant un arxiu executable.
+- Una **llibreria** és un col·lecció de codi predefinit que facilita la tasca del programador
+  a l’hora de codificar un programa.
