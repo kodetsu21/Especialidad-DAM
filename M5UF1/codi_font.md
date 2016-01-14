@@ -11,4 +11,4 @@
   - L’ **enllaçador** és l’encarregat d’inserir al codi objecte les funcions de les **llibreries**
     que són necessàries per al programa i de dur a terme el procés de muntatge generant un arxiu executable.
   - Una **llibreria** és un col·lecció de codi predefinit que facilita la tasca del programador
-    a l’hora de codificar un programa.
+    a l’hora de codificar un programa. _Hola_
