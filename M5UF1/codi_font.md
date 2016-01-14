@@ -1,4 +1,4 @@
-2. ## Codi font
+## 2. Codi font
   - Per crear un programa el que es farà serà crear un arxiu i escriure a un fitxer el
     seguit d’instruccions que es vol que l’ordinador executi.
   - Aquest arxiu és anomenat **codi font**:
