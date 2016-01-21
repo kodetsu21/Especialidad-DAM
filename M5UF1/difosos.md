@@ -1,0 +1,15 @@
+- Programació estructurada
+    D’aquesta forma les característiques de la programació estructurada són la claredat, el teorema de l’estructura i el disseny descendent.
+    - Claredat: Hi haurà d’haver prou informació al codi per tal que el programa pugui ser entès i verificat: comentaris, noms de variables comprensibles i procediments
+      entenedors... Tot programa estructurat pot ser llegit des del principi a la fi sense interrupcions en la seqüència normal de lectura.
+    - Teorema de l’estructura: Demostra que tot programa es pot escriure utilitzant únicament les tres estructures bàsiques de control:
+        - Seqüència: instruccions executades successivament, una darrere l’altra. Primer s’executarà la sentència A i, posteriorment, la B.
+        - Selecció: la instrucció condicional amb doble alternativa, de la forma “si condició, llavors SentènciaA, sinó SentènciaB”.
+        - teració:  el bucle condicional “mentre condició, fes SentènciaA”, que executa les instruccions repetidament mentre la condició es compleixi.
+    - Disseny descendent: El disseny descendent és una tècnica que es basa en el concepte de “divideix i venceràs” per tal de resoldre un problema en l’àmbit de la programació. Es tracta
+      de la resolució del problema al llarg de diferents nivells d’abstracció partint d’un
+      nivell més abstracte i finalitzant en un nivell de detall.
+    - Programació modular: ens referim a la divisió d’un programa en parts més manejables i independents. Una regla pràctica per aconseguir aquest
+      propòsit és establir que cada segment del programa no excedeixi, en longitud, d’un pam de codificació.
+    - Tipus abstractes de dades (TAD): el tipus de dades d’una variable és el conjunt de valors que la variable pot assumir.
+- Programació orientada a objectes
