@@ -1,5 +1,5 @@
-- Programació estructurada
-    D’aquesta forma les característiques de la programació estructurada són la claredat, el teorema de l’estructura i el disseny descendent.
+- Programació estructurada:
+D’aquesta forma les característiques de la programació estructurada són la claredat, el teorema de l’estructura i el disseny descendent.
     - Claredat: Hi haurà d’haver prou informació al codi per tal que el programa pugui ser entès i verificat: comentaris, noms de variables comprensibles i procediments
       entenedors... Tot programa estructurat pot ser llegit des del principi a la fi sense interrupcions en la seqüència normal de lectura.
     - Teorema de l’estructura: Demostra que tot programa es pot escriure utilitzant únicament les tres estructures bàsiques de control:
