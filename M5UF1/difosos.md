@@ -1,4 +1,4 @@
-5. ##Característiques dels llenguatges més difosos.
+##5. Característiques dels llenguatges més difosos.
     - Programació estructurada:
     D’aquesta forma les característiques de la programació estructurada són la claredat, el teorema de l’estructura i el disseny descendent.
         - Claredat: Hi haurà d’haver prou informació al codi per tal que el programa pugui ser entès i verificat: comentaris, noms de variables comprensibles i procediments
